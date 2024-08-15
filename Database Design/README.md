@@ -1,3 +1,9 @@
 # Database Design - Student Club Website
 
-This database design is intended to improve the student experience by providing a website database backend that stores dynamic data for a wide range of students across different majors and minors, categorized by academic level, completed courses, and academic GPA. In addition accepts student suggestions and inquiries as well as storing the FAQs.
+## Project Description
+
+This database design provides a backend solution for a student club website. It is designed to store dynamic data for students across various majors and minors, categorized by academic level, completed courses, and GPA. The system also supports storing student suggestions and inquiries, as well as frequently asked questions (FAQs).
+
+## Team Members
+- **Somaiya Saad** - [@github.com/Somaiya-XI]
+- Bassant Mahmoud - [@github.com/Berryyvxv]
