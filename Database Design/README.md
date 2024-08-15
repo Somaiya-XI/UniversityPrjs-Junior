@@ -6,4 +6,4 @@ This database design provides a backend solution for a student club website. It 
 
 ## Team Members
 - **Somaiya Saad** - [@github.com/Somaiya-XI]
-- Bassant Mahmoud - [@github.com/Berryyvxv]
+- **Bassant Mahmoud** - [@github.com/Berryyvxv]
