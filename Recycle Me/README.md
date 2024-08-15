@@ -1,0 +1,1 @@
+# System Design (Junior-lvl) - Recycle MeThis Recycling system is a system that intend to enhance the user experience of the recycling material collection process by giving companies a platform that connect them to different consumers to increasingly reach out to the people who seek to recycle with an encouraging feature of collecting and benifiting from points. 

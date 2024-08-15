@@ -1,0 +1,1 @@
+# System Design (Intermediate-lvl) - Study Plan This project is describing the current process of managing the study plan on a University and how to apply Lean concepts to this business process to eliminate the waste
